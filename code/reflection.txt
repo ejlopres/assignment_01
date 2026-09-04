@@ -1,18 +1,2 @@
-Write your reflection here.
 
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from class, and make it actionable.
-
-This assignment was a great refresher on how to get back into python.  
-I havent had to use the language in a while so it was nice to get some review on calling functions, using parameters and return values.  
-It was also great for reviewing some basic python syntax which, I had become a little rusty with.  
-Implementing the tip_amount, and grand_total functions was great practice to reinforce the idea that I want to keep calculations within the actual functions.  
-I was also able to practice using one function within another with the tip_amount and grand_total.  
-I also learned more about the difference between unit tests and integration tests. 
-The unit tests checked individual functions in bill.py, while the integration tests checked whether the larger applications actually worked.  
-The area where I ended up struggling the most was with the navigation of vs code and github.  
-I dont have much experience using these software applications so I had to learn more about them throughout this assignment.  
-The first time I submitted the assignment I got a zero, but this was just becuase I did not commit the changes and push them back to github correctly.  
-I also want to improve my debugging process. 
-Instead of immediately trying random changes when I see an error, I want to get better at reading the traceback and identifying which variable or function caused the problem.  
-I am excited to continue to develop my python skills throughout the rest of this course.
+This assignment was a great refresher on how to get back into python.  I havent had to use the language in a while so it was nice to get some review on calling functions, using parameters and return values.  It was also great for reviewing some basic python syntax which, I had become a little rusty with.  Implementing the tip_amount, and grand_total functions was great practice to reinforce the idea that I want to keep calculations within the actual functions.  I was also able to practice using one function within another with the tip_amount and grand_total.  I also learned more about the difference between unit tests and integration tests. The unit tests checked individual functions in bill.py, while the integration tests checked whether the larger applications actually worked.  The area where I ended up struggling the most was with the navigation of vs code and github.  I dont have much experience using these software applications so I had to learn more about them throughout this assignment.  The first time I submitted the assignment I got a zero, but this was just becuase I did not commit the changes and push them back to github correctly.  I also want to improve my debugging process. Instead of immediately trying random changes when I see an error, I want to get better at reading the traceback and identifying which variable or function caused the problem.  I am excited to continue to develop my python skills throughout the rest of this course.
